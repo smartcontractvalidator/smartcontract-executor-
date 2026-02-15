@@ -5,7 +5,7 @@ executing synchronization and validation
 1. Clone the repository
    ```bash
    git clone https://github.com/smartcontractvalidator/smartcontract-executor.git
-   cd smart-contract-deployment-tool
+   cd smartcontract-executor
    ```
 2. Install dependencies
    ```bash
